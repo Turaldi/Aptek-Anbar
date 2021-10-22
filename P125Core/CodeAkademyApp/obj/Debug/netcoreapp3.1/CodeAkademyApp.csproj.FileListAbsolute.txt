@@ -1,0 +1,14 @@
+C:\Users\MSI\source\repos\P125Core\CodeAkademyApp\bin\Debug\netcoreapp3.1\CodeAkademyApp.exe
+C:\Users\MSI\source\repos\P125Core\CodeAkademyApp\bin\Debug\netcoreapp3.1\CodeAkademyApp.deps.json
+C:\Users\MSI\source\repos\P125Core\CodeAkademyApp\bin\Debug\netcoreapp3.1\CodeAkademyApp.runtimeconfig.json
+C:\Users\MSI\source\repos\P125Core\CodeAkademyApp\bin\Debug\netcoreapp3.1\CodeAkademyApp.runtimeconfig.dev.json
+C:\Users\MSI\source\repos\P125Core\CodeAkademyApp\bin\Debug\netcoreapp3.1\CodeAkademyApp.dll
+C:\Users\MSI\source\repos\P125Core\CodeAkademyApp\bin\Debug\netcoreapp3.1\CodeAkademyApp.pdb
+C:\Users\MSI\source\repos\P125Core\CodeAkademyApp\obj\Debug\netcoreapp3.1\CodeAkademyApp.csproj.AssemblyReference.cache
+C:\Users\MSI\source\repos\P125Core\CodeAkademyApp\obj\Debug\netcoreapp3.1\CodeAkademyApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\source\repos\P125Core\CodeAkademyApp\obj\Debug\netcoreapp3.1\CodeAkademyApp.AssemblyInfoInputs.cache
+C:\Users\MSI\source\repos\P125Core\CodeAkademyApp\obj\Debug\netcoreapp3.1\CodeAkademyApp.AssemblyInfo.cs
+C:\Users\MSI\source\repos\P125Core\CodeAkademyApp\obj\Debug\netcoreapp3.1\CodeAkademyApp.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\P125Core\CodeAkademyApp\obj\Debug\netcoreapp3.1\CodeAkademyApp.dll
+C:\Users\MSI\source\repos\P125Core\CodeAkademyApp\obj\Debug\netcoreapp3.1\CodeAkademyApp.pdb
+C:\Users\MSI\source\repos\P125Core\CodeAkademyApp\obj\Debug\netcoreapp3.1\CodeAkademyApp.genruntimeconfig.cache
